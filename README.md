@@ -1,7 +1,7 @@
-Swipeable cards: Tinder-like cards library for Android
+KSwipeable cards: Tinder-like cards library for Android
 =================
 
-Swipeable-cards is a native library for Android that provide a Tinder card like effect. A card can be constructed using an image and displayed with animation effects, dismiss-to-like and dismiss-to-unlike, and use different sorting mechanisms.
+KSwipeable-cards is a native library for Android that provide a Tinder card like effect. A card can be constructed using an image and displayed with animation effects, dismiss-to-like and dismiss-to-unlike, and use different sorting mechanisms.
 
 The library is compatible for Android versions 3.0 (API Level 11) and upwards. It has been written fully in Kotlin. If you want to check the library in Java, check [Swipeable Cards][6]
 
@@ -39,7 +39,7 @@ Enrique López Mañas - <eenriquelopez@gmail.com>
 License
 -------
 
-    Copyright 2014 Enrique López Mañas
+    Copyright 2017 Enrique López Mañas
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
